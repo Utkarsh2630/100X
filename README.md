@@ -1,7 +1,8 @@
 # AI Interview Voice Bot 🎙️
 
-A voice-based AI chatbot built with Streamlit and OpenAI's API that responds to interview questions as Ebad Sayed from IIT ISM Dhanbad.
-
+A voice-based AI chatbot built with Streamlit and OpenAI's API that responds to interview questions as Utkarsh Kumar from IIT ISM Dhanbad.
+## LINK
+https://fnomzxxtuqfeypmrqqydxt.streamlit.app/
 ## Features
 
 ✅ **Voice Input** - Ask questions using your microphone
@@ -143,3 +144,4 @@ For issues, check:
 ✅ User-friendly interface (non-technical users can use)
 ✅ No coding knowledge required
 ✅ One-click deployment option
+
